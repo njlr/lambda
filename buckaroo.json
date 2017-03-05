@@ -1,0 +1,11 @@
+{
+  "name": "boost-lambda",
+  "dependencies": {
+    "boost-config": "1.63.0",
+    "boost-bind": "1.63.0",
+    "boost-detail": "1.63.0",
+    "boost-utility": "1.63.0",
+    "boost-mpl": "1.63.0",
+    "boost-type-traits": "1.63.0"
+  }
+}
