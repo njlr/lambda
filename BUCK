@@ -1,7 +1,7 @@
 include_defs('//BUCKAROO_DEPS')
 
 prebuilt_cxx_library(
-  name = 'boost-lambda',
+  name = 'lambda',
   header_only = True,
   header_namespace = 'boost/lambda',
   exported_headers = subdir_glob([
